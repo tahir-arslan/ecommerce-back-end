@@ -11,6 +11,7 @@ This application holds the information for the backend of a basic E Commerce sys
 
 ### Project Showcase
 [Application ShowCase](https://drive.google.com/file/d/1iVT9oXrX14i7XdoouMw2Sabk2E_Wiq03/view)
+[![Application ShowCase]({/public/assets/images/screenshot.png})]({https://drive.google.com/file/d/1iVT9oXrX14i7XdoouMw2Sabk2E_Wiq03/view} "E Commerce Back End Showcase")
 
 ## Table of Contents
 1. [Installation](#installation)
